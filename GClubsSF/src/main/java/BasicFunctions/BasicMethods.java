@@ -16,6 +16,10 @@ public class BasicMethods {
 	public static void SelectDropDown(WebElement webelement) {
 		Select SelectDropDown = new Select(webelement);
 	}
+	
+	public static void SelectDropDown(WebElement webelement) {
+		Select SelectDropDown = new Select(webelement);
+	}
     
 
 
