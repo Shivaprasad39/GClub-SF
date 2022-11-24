@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-21T16:00:40 IST" name="Default suite" finished-at="2022-11-21T16:00:40 IST" duration-ms="112">
+  <suite started-at="2022-11-25T00:42:14 IST" name="Default suite" finished-at="2022-11-25T00:42:14 IST" duration-ms="103">
     <groups>
     </groups>
-    <test started-at="2022-11-21T16:00:40 IST" name="Default test" finished-at="2022-11-21T16:00:40 IST" duration-ms="112">
+    <test started-at="2022-11-25T00:42:14 IST" name="Default test" finished-at="2022-11-25T00:42:14 IST" duration-ms="103">
       <class name="TestCases.G002_Verify_Purchase_Membership_With_Pay_By_Cheque">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestCases.G002_Verify_Purchase_Membership_With_Pay_By_Cheque@3f6f6701]" started-at="2022-11-21T16:00:16 IST" name="launchBrowser" finished-at="2022-11-21T16:00:40 IST" duration-ms="24198" status="FAIL">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestCases.G002_Verify_Purchase_Membership_With_Pay_By_Cheque@2794eab6]" started-at="2022-11-25T00:41:54 IST" name="launchBrowser" finished-at="2022-11-25T00:42:14 IST" duration-ms="19275" status="FAIL">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
@@ -63,7 +63,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="MTOrderUsingCheque()[pri:0, instance:TestCases.G002_Verify_Purchase_Membership_With_Pay_By_Cheque@3f6f6701]" started-at="2022-11-21T16:00:40 IST" name="MTOrderUsingCheque" finished-at="2022-11-21T16:00:40 IST" duration-ms="0" status="SKIP">
+        <test-method signature="MTOrderUsingCheque()[pri:0, instance:TestCases.G002_Verify_Purchase_Membership_With_Pay_By_Cheque@2794eab6]" started-at="2022-11-25T00:42:14 IST" name="MTOrderUsingCheque" finished-at="2022-11-25T00:42:14 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
